@@ -1,6 +1,6 @@
-import gsap from 'https://cdn.skypack.dev/gsap';
-import ScrollTrigger from 'https://cdn.skypack.dev/gsap/ScrollTrigger';
-import Draggable from 'https://cdn.skypack.dev/gsap/Draggable';
+// import gsap from 'https://cdn.skypack.dev/gsap';
+// import ScrollTrigger from 'https://cdn.skypack.dev/gsap/ScrollTrigger';
+// import Draggable from 'https://cdn.skypack.dev/gsap/Draggable';
 
 gsap.registerPlugin(ScrollTrigger);
 gsap.registerPlugin(Draggable);
